@@ -1,0 +1,27 @@
+:root {
+  --primary-font: 'Roboto', sans-serif;
+  --secondary-font: 'Relawey', sans-serif;
+  --primary-web-color: #4d5ae5;
+  --title-text-color: #ffffff;
+  --accent-color: #404bbf;
+  --bgcolor-primary: #e5e5e5;
+  --text-color: #434455;
+  --footer-text: #f4f4fd;
+  --background-color: #2e2f42;
+}
+body {
+  background: #ffffff;
+}
+/**------------------ Hero----------------------- */
+.hero-title {
+  background: #2e2f42;
+}
+.contacts-list {
+  list-style: none;
+}
+.contacts-link {
+  text-decoration: none;
+}
+.menu {
+  list-style: none;
+}
