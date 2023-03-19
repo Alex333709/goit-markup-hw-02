@@ -247,8 +247,8 @@ body {
 }
 .menu-item {
 }
-.menu-btn {
-  font-family: inherit;
+.menu-btn-text {
+  font-family: 'Roboto', sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
@@ -262,8 +262,8 @@ body {
 
   cursor: pointer;
 }
-.menu-btn:hover,
-.menu-btn:focus {
+.menu-btn-text:hover,
+.menu-btn-text:focus {
   color: var(--color-white-background);
   background-color: var(--color-ocean);
 }
