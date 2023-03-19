@@ -151,6 +151,7 @@ body {
 
 /**------------------------------Team--------------------*/
 .team {
+  background-color: var(--color-light);
 }
 .team-title {
   font-weight: 700;
