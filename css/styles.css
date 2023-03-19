@@ -47,14 +47,14 @@ body {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: var(--color-navy-blue-modal);
+  color: var(--dack-color);
 }
 .header-link:hover,
 .header-link:focus {
   color: var(--color-ocean);
-  color: var(--primery-iris);
 }
 .header-contacts {
+  font-style: normal;
 }
 .header-contacts-list {
 }
@@ -70,6 +70,10 @@ body {
   letter-spacing: 0.02em;
   color: var(--color-text);
 }
+.header-mail:hover,
+.header-mail:focus {
+  color: var(--color-ocean);
+}
 .header-phone {
   font-style: normal;
   font-weight: 400;
@@ -77,6 +81,10 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: var(--color-text);
+}
+.header-phone:hover,
+.header-phone:focus {
+  color: var(--color-ocean);
 }
 
 /**------------------ Hero----------------------- */
