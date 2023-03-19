@@ -231,17 +231,17 @@ body {
 .list {
 }
 .products-item {
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 1.2;
-  letter-spacing: 0.02em;
-  color: var(--dack-color);
 }
 .products-link {
 }
 .link {
 }
 .products-title {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: var(--dack-color);
 }
 .products-descriptions {
   font-size: 16px;
