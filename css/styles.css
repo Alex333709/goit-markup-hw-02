@@ -45,9 +45,9 @@ body {
 .header-item {
   font-weight: 500;
   font-size: 16px;
-  line-height: 1.15;
+  line-height: 1.5;
   letter-spacing: 0.02em;
-  color: var(--dack-color);
+  color: var(--color-navy-blue-modal);
 }
 .header-link:hover,
 .header-link:focus {
