@@ -92,7 +92,7 @@ body {
 
 /**------------------ Hero----------------------- */
 .hero {
-  background-color: var(--color-grey);
+  background-color: var(--dack-color);
 }
 
 .hero-title {
