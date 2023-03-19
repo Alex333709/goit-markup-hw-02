@@ -7,8 +7,6 @@
   --color-light-slate: #8e8f99;
   --color-acent: #e7e9fc;
   --color-light: #f4f4fd;
-  --color-navy-blue-modal: #2e2f42;
-  --color-grey: #2e2f42;
   --color-white-background: #ffffff;
   --color-dairy: #fcfcfc;
 }
@@ -26,7 +24,6 @@ body {
 }
 /**------------------------------HEADER---------------------------*/
 .heder-navigation {
-  color: var(--color-grey);
 }
 .header-logo {
   font-family: 'Raleway', sans-serif;
@@ -51,6 +48,10 @@ body {
   letter-spacing: 0.02em;
   color: var(--color-grey);
 }
+.header-link {
+  color: var(--dack-color);
+}
+
 .header-link:hover,
 .header-link:focus {
   color: var(--color-ocean);
