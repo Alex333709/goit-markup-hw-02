@@ -41,6 +41,7 @@ body {
   color: var(--dack-color);
 }
 .header-list {
+  color: var(--color-grey);
 }
 .header-item {
   font-weight: 500;
