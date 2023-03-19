@@ -88,14 +88,19 @@ body {
 }
 
 /**------------------ Hero----------------------- */
+.hero {
+  background-color: var(--color-grey);
+}
+
 .hero-title {
+  font-family: 'Roboto', sans-serif;
   font-weight: 700;
   font-size: 56px;
   line-height: 1.07;
   text-align: center;
   letter-spacing: 0.02em;
   color: #ffffff;
-  background: var(--primery-iris);
+  background-color: var(--color-grey);
 }
 
 .hero-button {
@@ -107,11 +112,12 @@ body {
   align-items: center;
   letter-spacing: 0.04em;
   color: #ffffff;
+  background-color: #4d5ae5;
   cursor: pointer;
 }
 .hero-button:hover,
 .hero-button:focus {
-  color: var(--color-ocean);
+  background-color: var(--color-ocean);
 }
 .btn {
 }
@@ -193,6 +199,7 @@ body {
 }
 /**------------------------------FOOTER--------------------*/
 .footer-section {
+  background-color: var(--dack-color);
 }
 .footer-logo {
   font-family: 'Raleway', sans-serif;
@@ -204,7 +211,7 @@ body {
   color: var(--primery-iris);
 }
 .footer-web {
-  color: var(--dack-color);
+  color: #f4f4fd;
 }
 .footer-text {
   font-size: 16px;
