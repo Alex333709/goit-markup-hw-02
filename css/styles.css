@@ -165,6 +165,7 @@ body {
 .team-list {
 }
 .team-item {
+  background-color: var(--color-white-background);
 }
 .team-subtitle {
   font-weight: 500;
