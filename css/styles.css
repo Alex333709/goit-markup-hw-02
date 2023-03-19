@@ -26,6 +26,7 @@ body {
 }
 /**------------------------------HEADER---------------------------*/
 .heder-navigation {
+  color: var(--color-grey);
 }
 .header-logo {
   font-family: 'Raleway', sans-serif;
@@ -34,7 +35,7 @@ body {
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-  color: var(--color-grey);
+  color: var(--primery-iris);
 }
 
 .header-web {
